@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-sampler.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Introducción a Sampler | Lynx Pardelle",
+    "description": "Explora Sampler, el instrumento de Ableton Live para editar muestras y cambiar su carácter por medio de la resíntesis. Escucha cómo un único sonido grabado puede servir de base para un instrumento tocable.",
+    "canonical": "https://masterclass-sampler.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-midi.webp"
+    }
+  }
+}
