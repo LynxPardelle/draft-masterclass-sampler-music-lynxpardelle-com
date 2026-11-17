@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Introducción a Sampler | Lynx Pardelle",
-    "description": "Explora Sampler, el instrumento de Ableton Live para editar muestras y cambiar su carácter por medio de la resíntesis. Escucha cómo un único sonido grabado puede servir de base para un instrumento tocable.",
+    "title": "Masterclass de Sampler y resíntesis en Ableton Live | Lynx Pardelle",
+    "description": "Explora cómo cargar, editar y transformar una muestra en Sampler. Usa el instrumento de Ableton Live para iniciar una práctica de resíntesis.",
     "canonical": "https://masterclass-sampler.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sampler-r2-2ca880f4e52384ad.webp",
+      "title": "Masterclass de Sampler y resíntesis en Ableton Live | Lynx Pardelle",
+      "description": "Explora cómo cargar, editar y transformar una muestra en Sampler. Usa el instrumento de Ableton Live para iniciar una práctica de resíntesis.",
+      "url": "https://masterclass-sampler.music.lynxpardelle.com/",
+      "imageAlt": "Sampler de hardware con teclado de dos octavas y una colección de cintas."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de Sampler y resíntesis en Ableton Live | Lynx Pardelle",
+      "description": "Explora cómo cargar, editar y transformar una muestra en Sampler. Usa el instrumento de Ableton Live para iniciar una práctica de resíntesis.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sampler-r2-2ca880f4e52384ad.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-sampler.music.lynxpardelle.com/#webpage",
+        "name": "Introducción a Sampler",
+        "description": "Explora cómo cargar, editar y transformar una muestra en Sampler. Usa el instrumento de Ableton Live para iniciar una práctica de resíntesis.",
+        "url": "https://masterclass-sampler.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-sampler.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-sampler.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Introducción a Sampler",
+        "description": "Explora cómo cargar, editar y transformar una muestra en Sampler. Usa el instrumento de Ableton Live para iniciar una práctica de resíntesis.",
+        "url": "https://masterclass-sampler.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-sampler-r2-2ca880f4e52384ad.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-sampler.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
